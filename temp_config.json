@@ -1,0 +1,18 @@
+{
+"folder": "D:\project\absentia8\Исходные файлы\Исходные изображения картин",
+"targetFolder": "D:\project\absentia8\Result",
+"textureFolder": "D:\project\absentia8\Исходные файлы\Текстуры холста",
+"horizontalMockups": "D:\project\absentia8\Исходные файлы\шаблоны макетов в psd\ГОРИЗОНТАЛЬНЫЕ макеты",
+"verticalMockups": "D:\project\absentia8\Исходные файлы\шаблоны макетов в psd\ВЕРТИКАЛЬНЫЕ макеты",
+"squareMockups": "D:\project\absentia8\Исходные файлы\шаблоны макетов в psd\РАВНОСТОРОННИЕ макеты",
+"columnsWidth": "1",
+"columnsHeight": "1",
+"opacity": "50",
+"format": "jpg",
+"maxSize": "45",
+"randomOffset": "15",
+"units": "sm",
+"mockupCount": "1",
+"mockupFormat": "jpg",
+"mockupResolution": "72"
+}
